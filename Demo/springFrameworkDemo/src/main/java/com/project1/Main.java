@@ -25,6 +25,5 @@ public class Main {
         // both object showing different output, hence new object get created.
         System.out.println(n1.getQualification());
         System.out.println(n2.getQualification());
-
     }
 }
